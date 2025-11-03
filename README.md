@@ -6,13 +6,12 @@
 **A Research Initiative Exploring Tensor-Based Approaches to Classical Machine Learning**
 
 > **Important Note**: This project explores quantum-inspired algorithms using classical implementations. All code is research-grade, not production-ready. Hybrid methods combine tensor operations with classical ML fallbacks for stability.
-Because this work was developed locally without strict version tracking, some files may require structural alignment and refinement. The results presented are from the earliest experimental testing phase, and the repository remains in active development.
 
 > The original experimental repository was first pushed on 30 December, but due to an accidental inclusion of sensitive information and a README typo, that version was made private. This public version was re-uploaded after corrections.
 
 >For verification, a screenshot of the initial repository’s commit history is available at: [early push](media/early_push.jpg).
 
----
+----
 
 ## Project Status
 
