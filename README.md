@@ -11,7 +11,7 @@
 
 >For verification, a screenshot of the initial repository’s commit history is available at: [early push](media/early_push.jpg).
 
-----
+---
 
 ## Project Status
 
