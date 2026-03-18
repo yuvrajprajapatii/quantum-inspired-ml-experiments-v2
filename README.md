@@ -1,6 +1,5 @@
 # Quantum-Inspired Machine Learning Experiments
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-orange.svg)](https://github.com/yuvrajprajapatii/quantum-inspired-ml-experiments)
 
 **A Research Initiative Exploring Tensor-Based Approaches to Classical Machine Learning**
